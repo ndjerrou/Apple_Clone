@@ -48,7 +48,7 @@ nav img {
 .right-search input {
   height: 100%;
   width: 80%;
-  background: orange;
+  background: rgba(0, 0, 0, 0.324);
   border: none;
   box-shadow: inset 0 1px 0 1px black;
   border-radius: 10px;
