@@ -71,6 +71,11 @@ nav img {
   left: 20px;
 }
 
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
 footer a {
   text-decoration: none;
   color: blue;
@@ -115,11 +120,6 @@ nav ul li:last-child {
 nav ul li:hover {
   background: linear-gradient(black, #a6a7ac);
   border: none;
-}
-
-nav ul li a {
-  text-decoration: none;
-  color: white;
 }
 
 .text-on-image {
@@ -217,5 +217,5 @@ footer ul li img {
 #upper-line {
   display: flex;
   justify-content: space-between;
-  align-items: center
+  align-items: center;
 }
