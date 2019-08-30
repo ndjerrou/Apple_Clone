@@ -8,4 +8,7 @@
 
 - Click [here](https://raw.githack.com/ndjerrou/Apple_Clone/dev/index.html) for a live version
 
+![Clone](https://user-images.githubusercontent.com/20658570/64013394-9a9a4a80-cb17-11e9-8d1e-5a960e881e6b.png)
+
+
 - Through this project, I learnt how to use efficiently a background image and also how to manipulate colors to get an exciting gradient.
